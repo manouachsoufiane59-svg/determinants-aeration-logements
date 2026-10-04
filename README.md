@@ -64,4 +64,4 @@ L’analyse porte sur 193 ménages et repose sur les variables et mesures dispon
 - Script R d’analyse économétrique
 - Note opérationnelle au format PDF
 
-Le script attend aussi un fichier `data_air.csv`. Celui-ci n’est pas inclus pour le moment. Le chemin d’accès défini dans le script est propre à un ordinateur : il devra être adapté pour permettre à une autre personne de l’exécuter.
+Le fichier data_air.csv est inclus à la racine du dépôt. Placez-le dans le même dossier que Code.R pour exécuter l’analyse.
