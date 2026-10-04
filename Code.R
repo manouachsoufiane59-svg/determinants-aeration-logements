@@ -1,7 +1,7 @@
 ## Sujet 2 ##
 # 1. Definissons le chemin d'accès
 
-setwd("/Users/richardlarri/Desktop/Rendu Operationnel_Econometrie ")
+setwd("/Users/.../Desktop/Rendu Operationnel_Econometrie ")
 
 # Installons et chargons les packages 
 
